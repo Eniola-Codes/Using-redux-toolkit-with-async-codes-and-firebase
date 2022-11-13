@@ -4,7 +4,7 @@ An application which is a cart system that has it state managed with redux toolk
 
 **End Result**
 
-Click here : https://movtime-movies-app.vercel.app/
+Click here : https://reduxcartsystem.netlify.app/
 
 # Description
 
