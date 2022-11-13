@@ -12,7 +12,7 @@ Click here : https://movtime-movies-app.vercel.app/
 
 The application allows you to add items to the cart by clicking on the add to cart button, The list of items contains the item name, description and price 
 
-![Item]https://github.com/Eniola-Codes/Using-redux-toolkit-with-async-codes-and-firebase/blob/main/src/assets/additem.png?raw=true)
+![Item](https://github.com/Eniola-Codes/Using-redux-toolkit-with-async-codes-and-firebase/blob/main/src/assets/additem.png?raw=true)
 
 The cart button located on the navbar contains an integer in a badge, which counts the number of items that has being added to the cart. 
 
